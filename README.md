@@ -19,27 +19,27 @@
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sherezade%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherezade-lópez-cobo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sherezade%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherezade-lópez-cobo/)
 
 ---
 
 ## 🧠 Tecnologías
 
 ### 💻 Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/-CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=93C5FD)
+![JavaScript](https://img.shields.io/badge/-JavaScript-312E81?style=for-the-badge&logo=javascript&logoColor=A5B4FC)
 
 ### ⚙️ Back-End
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-312E81?style=for-the-badge&logo=php&logoColor=C4B5FD)
+![Java](https://img.shields.io/badge/-Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=60A5FA)
 
 ### 🗄️ Bases de datos
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
 
 ### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-020617?style=for-the-badge&logo=git&logoColor=38BDF8)
+![VSCode](https://img.shields.io/badge/-VSCode-1E293B?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8)
 
 ---
 
@@ -72,19 +72,17 @@ Sistema de gestión agrícola:
 - Aplicación tipo CRUD con estructura real  
 - Enfoque práctico en gestión de datos  
 
-
 ---
 
 ## 🧩 En qué estoy trabajando ahora
 
-- 🔧 Sistemas multi-agente con IA  
-- 🧠 Mejora de rendimiento en LLMs locales  
-- 🏗️ Proyectos educativos con impacto real  
-- 🌐 Integración IA + web (WordPress + APIs)  
+- 🎨 Mejorando mis habilidades en diseño Front-End  
+- 🌐 Creando interfaces web modernas y responsive  
+- 🚀 Desarrollando proyectos completos para mi portfolio  
 
 ---
 
-## 📈 Métricas avanzadas
+## 📈 Métricas
 
 ![Streak](https://streak-stats.demolab.com?user=SherezadeLc&theme=tokyonight)
 
