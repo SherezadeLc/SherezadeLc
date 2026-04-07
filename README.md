@@ -43,6 +43,12 @@
 
 ---
 
+## 🔥 Actividad
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SherezadeLc&theme=tokyo-night)
+
+---
+
 ## 📂 Proyectos destacados  
 
 ### 📚 Tintero  
@@ -64,13 +70,29 @@ Sistema de gestión agrícola:
 - Gestión de parcelas, tareas y agricultores  
 - Lógica completa con PHP y base de datos MySQL  
 - Aplicación tipo CRUD con estructura real  
+- Enfoque práctico en gestión de datos  
+
 
 ---
 
 ## 🧩 En qué estoy trabajando ahora
 
-- 🎨 Mejorando mis habilidades en diseño Front-End  
-- 🌐 Creando interfaces web modernas y responsive  
-- 🚀 Desarrollando proyectos completos para mi portfolio  
+- 🔧 Sistemas multi-agente con IA  
+- 🧠 Mejora de rendimiento en LLMs locales  
+- 🏗️ Proyectos educativos con impacto real  
+- 🌐 Integración IA + web (WordPress + APIs)  
+
+---
+
+## 📈 Métricas avanzadas
+
+![Streak](https://streak-stats.demolab.com?user=SherezadeLc&theme=tokyonight)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SherezadeLc&theme=tokyonight)
+
+## 💻 Lenguajes más usados
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SherezadeLc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SherezadeLc&theme=tokyonight)
 
 ---
